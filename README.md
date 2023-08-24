@@ -23,4 +23,7 @@ Listen Sie hier alle Teammitglieder auf.
 # Quellenverzeichnis
 - Vorlesung
 - https://www.opengl.org/
+- https://www.cgtrader.com/items/3136813/download-page
+- http://profilki.pl/en/generators/3d-texts
+- https://www.figuro.io/Designer
 
