@@ -1,0 +1,3 @@
+[submodule "project/CGASoSe2023"]
+	path = project/CGASoSe2023
+	url = https://github.com/lhetflei/CGASoSe2023.git
