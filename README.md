@@ -10,13 +10,22 @@ Fügen Sie ihren Projektnamen hinzu
 
 # Teammitglieder
 Listen Sie hier alle Teammitglieder auf.
-- Armin Anfang
-- Berta Beliebig
-- Carola Coautor
+- Dennis Pauls
+- Loris Hetfleisch
+- Pascal Karsten
 
 # Featureliste
-Listen Sie hier alle relevanten Features als Liste mit sinnvoller Reihenfolge auf mit Angabe wer das Feature implementiert hat.
-Bei starker Ungleicheit der Features behalten wir uns eine individuelle Notenvergabe vor.
+Blinn Phong shader
+Toon Shader
+Normalen Visialisierung
+1st-Person 3rd-Person Orbit Kamera
+Raumschiff Steuerung
+Asteroiden Spawn system
+Asteroiden Verfolgungssytem
+Score und Korrelation zur Asteroiden Geschwindigkeit
+Skybox
+Kollisionsabfrage zwischen Laser und Asteroiden sowie Raumschiff und Asteroiden
+Game Over Menu
 
 Bspw.
 
