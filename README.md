@@ -8,17 +8,17 @@ Listen Sie hier alle Teammitglieder auf.
 - Pascal Karsten
 
 # Featureliste
-- Blinn Phong shader
-- Toon Shader
-- Normalen Visialisierung
-- 1st-Person 3rd-Person Orbit Kamera
-- Raumschiff Steuerung
-- Asteroiden Spawn system
-- Asteroiden Verfolgungssytem
-- Score und Korrelation zur Asteroiden Geschwindigkeit
-- Skybox
-- Kollisionsabfrage zwischen Laser und Asteroiden sowie Raumschiff und Asteroiden
-- Game Over Menu
+- Blinn Phong shader                                                                    (Denis,Loris,Pascal)
+- Toon Shader                                                                           (Loris)
+- Normalen Visialisierung                                                               (Denis,Loris,Pascal) 
+- 1st-Person 3rd-Person Orbit Kamera                                                    (Loris,Pascal)
+- Raumschiff Steuerung                                                                  (Loris,pascal)
+- Asteroiden Spawn system                                                               (Loris)
+- Asteroiden Verfolgungssytem                                                           (Loris)
+- Score und Korrelation zur Asteroiden Geschwindigkeit                                  (Loris) 
+- Skybox                                                                                (Pascal)
+- Kollisionsabfrage zwischen Laser und Asteroiden sowie Raumschiff und Asteroiden       (Denis)
+- Game Over Menu                                                                        (Pascal)
 
 # Quellenverzeichnis
 - Vorlesung
