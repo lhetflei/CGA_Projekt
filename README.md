@@ -19,6 +19,8 @@ Listen Sie hier alle Teammitglieder auf.
 - Skybox                                                                                (Pascal)
 - Kollisionsabfrage zwischen Laser und Asteroiden sowie Raumschiff und Asteroiden       (Denis)
 - Game Over Menu                                                                        (Pascal)
+- Game Restart                                                                          (Denis,Loris,Pascal)
+- Kamera Zoom                                                                           (Pascal)
 
 # Quellenverzeichnis
 - Vorlesung
