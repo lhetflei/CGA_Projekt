@@ -21,6 +21,7 @@ Listen Sie hier alle Teammitglieder auf.
 - Game Over Menu                                                                        (Pascal)
 - Game Restart                                                                          (Denis,Loris,Pascal)
 - Kamera Zoom                                                                           (Pascal)
+- Out of Map Warung/Reset                                                               (Denis,Loris,Pascal)
 
 # Quellenverzeichnis
 - Vorlesung
