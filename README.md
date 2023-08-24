@@ -10,7 +10,7 @@ Fügen Sie ihren Projektnamen hinzu
 
 # Teammitglieder
 Listen Sie hier alle Teammitglieder auf.
-- Dennis Pauls
+- Denis Pauls
 - Loris Hetfleisch
 - Pascal Karsten
 
